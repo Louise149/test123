@@ -1,11 +1,12 @@
 ---
-title: Video Lesson
-teaching: null
-exercises: null
+title: Video Lesson of Wonder
+teaching: 30
+exercises: 20
 duration: null
 summary: This template shows you how to include embedded videos in your lessons.
 questions: null
-objectives: null
+objectives:
+  - To show you a video lesson
 keypoints: null
 is-break: null
 ukrn_wb_rules:
