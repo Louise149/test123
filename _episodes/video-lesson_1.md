@@ -1,5 +1,5 @@
 ---
-title: Video Lesson of Wonder
+title: Video Lesson Introduction
 teaching: 30
 exercises: 20
 duration: null
